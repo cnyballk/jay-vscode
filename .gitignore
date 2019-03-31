@@ -1,0 +1,7 @@
+out
+node_modules
+.vscode-test/
+*.vsix
+.DS_store
+yarn-error.log
+vsc-extension-quickstart.md
